@@ -1,0 +1,17 @@
+Q9. Explain Encapsulation with an example. (Write at least 30-40 words).
+
+The procedure of encapsulation is likely to put several medicines together in one capsule for patient to take.
+Likewise, the procedure of encapsulation in Java is wrapping code or data into a specific unit. What is more, it
+has "setter" and "getter" methods for us to modify or fetch the data in the "java capsule".
+-----------------------------------------------------------------------------------------------------------------------
+
+Q10. What is Java Garbage Collection? How It Works?. What is finalize method in Java ? 
+When does an Object becomes eligible for Garbage collection in Java?
+
+The Garbage Collection in Java is a automatic process for Java programs , to manage the collection memory.
+The whole procedure happens in JVM( Java Virtual Machine). Every JVM can accomplish this process in many
+ways, if only it is qualified by JVM requirements.
+Finalize is a java method, which is non-static and protected. It is available in all kinds of objects the programmer
+build in java. And it is used for final operations performance or clearance.
+An object is signed as eligible for garbage collection when it cannot be accessed, or the reference variable of 
+the object is a null value.
