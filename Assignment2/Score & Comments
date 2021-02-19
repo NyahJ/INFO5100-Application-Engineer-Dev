@@ -1,0 +1,8 @@
+
+
+Comments : 
+-   Logic is incorrect for question fizzBuzz, SortSalary
+-   In question 4 under insuranceCoverage function, The question says if the employee is above 60 and not above or equal to. 
+ so the condition age > 60 is required in else statement
+ 
+Grade : 8.75/10
