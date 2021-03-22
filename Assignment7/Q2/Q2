@@ -1,0 +1,9 @@
+Two differences:
+
+(1)ArrayList is more suitable for storing and accessing data; 
+   /LinkedList is more suitable for processing data.
+(2)Operation with ArrayList is very slow because it uses arrays internally. If any 
+   element is deleted from the array, all bits will be shifted in memory;
+   /Operation with LinkedList is faster than ArrayList, because it uses a two-way 
+    linked list, so there is no need to shift in memory.
+
