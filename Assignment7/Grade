@@ -1,0 +1,7 @@
+Well Done!
+
+Grade : 9.25/10
+
+Comments : - MyHashMap doesn't include get() and remove() method implementation.
+           - While coding, once you have thought about general case (i.e, a scenario that is most likely to happen) Think about Edge cases. 
+           For instance, in ATM program, one should not be able to deposit or withdraw any negative amount.
